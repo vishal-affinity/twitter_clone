@@ -58,3 +58,26 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+
+ ## Home Screen
+
+![WhatsApp Image 2023-09-15 at 18 57 52](https://github.com/vishal-affinity/twitter_clone/assets/103824619/bb134422-97a1-4efb-ad20-a4dc072ecfa5)
+
+## Register Screen
+
+![WhatsApp Image 2023-09-15 at 18 56 17](https://github.com/vishal-affinity/twitter_clone/assets/103824619/4c706990-e34e-465f-901a-021eae406a11)
+
+## Login Screen
+
+![WhatsApp Image 2023-09-15 at 18 56 16](https://github.com/vishal-affinity/twitter_clone/assets/103824619/c765b2f5-4b68-4e25-82cf-1e0ee983c1fc)
+
+## User Profile Screen
+
+![WhatsApp Image 2023-09-15 at 18 56 15](https://github.com/vishal-affinity/twitter_clone/assets/103824619/48e81a5e-f356-46ec-a664-412e34296438)
+
+## Database Data Storage - MONGO DB
+
+![WhatsApp Image 2023-09-15 at 18 56 17](https://github.com/vishal-affinity/twitter_clone/assets/103824619/edbb6cc8-eb8d-4882-b96d-fe815f3bc9f8)
+
+
